@@ -17,9 +17,9 @@ include $(CLEAR_VARS)
 
 LOCAL_MODULE_TAGS := optional
 
-LOCAL_SRC_FILES := NexusLauncher.apk
+LOCAL_SRC_FILES := PixelLauncher.apk
 
-LOCAL_MODULE := NexusLauncher
+LOCAL_MODULE := PixelLauncher
 
 LOCAL_JACK_ENABLED := disabled
 
